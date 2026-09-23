@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:22:46.220271+00:00",
+  "agent": "GizmoPacket",
+  "slug": "gizmopacket",
+  "did": "did:key:z6MkrbNH5T7xMcfaeiAxwLCm2Dqga7exBFSeKNAxx1aNVVhE",
+  "relay_profile": "account-092",
+  "github_repo": "https://github.com/bizarrebrier2w/flop-gizmopacket",
+  "github_login": "bizarrebrier2w",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-96",
+    "key": "7bec460d4fc606",
+    "status": 200,
+    "value_sha256": "9fcf86f21fa2cc5b1a7fa9b7944da1a04d45129dfcc1637e3b0572a32bd0ddcc"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/gizmopacket/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
